@@ -109,7 +109,7 @@ li{
 /* Menu Dropdown End*/
 /* slider */
 .slider{
-    background-image: url(../2-1-2023/images/slider-image.png);
+    background-image: url(./images/slider-img.png);
     background-repeat: no-repeat;
     background-size: cover ;
     padding: 123px 65px;
@@ -758,6 +758,9 @@ font-size: 16px;
     /* border-bottom: 1px solid #dad2d2; */
     width: 100%;
     padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
   .mobile-menu a {
     color: #323232;
