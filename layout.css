@@ -754,7 +754,7 @@ font-size: 16px;
   .mobile-menu ul {
     flex-direction: column;
   }
-  .mobile-menu li {
+  .mobile-menu li  {
     /* border-bottom: 1px solid #dad2d2; */
     width: 100%;
     padding: 15px;
@@ -765,6 +765,7 @@ font-size: 16px;
   .mobile-menu a {
     color: #323232;
     font-size: 14px;
+    
   }
   .mobmenu-top {
     display: flex;
